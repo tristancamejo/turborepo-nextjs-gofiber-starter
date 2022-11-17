@@ -1,0 +1,9 @@
+{
+    "name": "@disploy/backend",
+    "version": "0.0.0",
+    "scripts": {
+        "dev": "air",
+        "build": "go build -o bin/backend",
+        "start": "bin/backend"
+    }
+}
